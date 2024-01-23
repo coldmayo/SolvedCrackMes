@@ -1,0 +1,7 @@
+Takes 1 argument: file name
+If there is more or less than 1 argument, this error will occur: "Usage: <filename>"
+If the file does not exist, an error occurs: "error #1!"
+If the file does exist, it changes the last modified/accessed time/date to the current time/date
+If for some reason, the above cannot be done, it gives an error: "error #2!"
+
+For C code of the executable, take a look at e12.c
