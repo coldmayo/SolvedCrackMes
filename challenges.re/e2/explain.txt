@@ -1,0 +1,5 @@
+In the main function, if the amount of arguments given not equal to two then it returns 1.
+Otherwise, the return value is determined by the function named "peepee"
+These arguments have to be files, if they are not, peepee returns 1 which results in main returning 1
+It then continues to compare the files and if they have the same contents the function returns 0
+Otherwise, it returns 1
