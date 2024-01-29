@@ -1,0 +1,3 @@
+In the code given, the author loops through the emails and for every letter this is done: lamda x: ord(x) << 1.
+The ord() function turns characters into their ascii # counterpart and << is the left shift operator. For example: 2 << 5 (shift left by 5 bits 0b10 -> 0b100000)
+So to solve this, we need to right shift all of the #'s by 1 and convert them into characters.
