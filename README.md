@@ -1,12 +1,13 @@
 # SolvedCrackMes
 
-This is a repo of all the crackme's I've solved. 
+This is a repo of some of the crackme's I've solved with C code that explains what it does. This is mainly a practice of reverse engineering.
 
 ## Directory info
 
-I group crackmes based on where I found them (i.e. NoraCodes crackmes get into their own folder). Each individual crackme has their own folder containing the executable and my guess on what the source code is. I might also include explanations later on.
+Every crackme is in their own separate folder with the executable, a C file that shows what the executable does, and possibly a text file with an explication. 
 
 ## Tools I used
 
 - Radare2
 - Ghidra
+- objdump
