@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Prereqs.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Prereqs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Prereqs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Prereqs.md"
               }
             }
           }
@@ -161,9 +161,10 @@
   },
   "active": "af87624d04d38c7b",
   "lastOpenFiles": [
+    "Registers.md",
+    "Prereqs.md",
     "SimpleAssemblyExamples.md",
     "The CPU.md",
-    "Registers.md",
     "Welcome.md"
   ]
 }

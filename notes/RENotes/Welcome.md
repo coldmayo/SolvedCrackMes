@@ -6,6 +6,10 @@ This is an obsidian vault for my notes on Reverse Engineering! This will be for 
 - Radare
 - Ghidra
 
+## Where to Start?
+1. Go to the [[Prereqs]] note to learn how to install the above tools
+2. Go to [[Introduction]] to learn my thought process on solving crackmes
+
 ## Resources
 - <a href="https://nora.codes/tutorial/an-intro-to-x86_64-reverse-engineering/">Nora Codes</a>
 	- I used these instructions and <a href="https://github.com/noracodes/crackmes">crackmes</a> to learn some of the basics
