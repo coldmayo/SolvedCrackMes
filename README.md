@@ -10,6 +10,8 @@ This is a repo of some of the crackme's I've solved as a practice of Reverse Eng
 	- has some solutions from <a href="https://challenges.re/">challenges.re</a>
 - \crackmes.one
 	- solutions to crackmes from <a href="https://crackmes.one/">crackmes.one</a>
+- \crackmes.de
+	- solutions to crackmes from the now defunct crackmes.de
 - \notes
 	- Some of the notes I have taken on the basics of Reverse Engineering
 - \other
